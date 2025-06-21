@@ -850,3 +850,4 @@
 /mnt/HDD/N-1/InventoryManagement/ConsoleApp/obj/Debug/net8.0/InventoryManagmentSystem.pdb
 /mnt/HDD/N-1/InventoryManagement/ConsoleApp/obj/Debug/net8.0/InventoryManagmentSystem.genruntimeconfig.cache
 /mnt/HDD/N-1/InventoryManagement/ConsoleApp/obj/Debug/net8.0/ref/InventoryManagmentSystem.dll
+/mnt/HDD/N-1/InventoryManagement/ConsoleApp/obj/Debug/net8.0/InventoryManagmentSystem.sourcelink.json
